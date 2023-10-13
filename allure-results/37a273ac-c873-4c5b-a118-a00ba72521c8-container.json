@@ -1,0 +1,1 @@
+{"uuid":"37a273ac-c873-4c5b-a118-a00ba72521c8","name":"MobileDemo","children":["012ddea0-94bd-4895-9c2f-690eb99cf58a"],"befores":[{"name":"start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1697088348889,"stop":1697088366227}],"afters":[],"start":1697088348862,"stop":1697088435043}
